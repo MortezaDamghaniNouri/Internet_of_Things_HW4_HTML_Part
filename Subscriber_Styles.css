@@ -1,0 +1,52 @@
+body {
+    background-image: url("Background_Image.jpg");
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+
+#main_block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    height: 70%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    overflow: scroll;
+    background-color: grey;
+
+
+}
+
+
+button {
+    display: block;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 30%;
+    text-align: center;
+    font-size: 80%;
+    background-color: orangered;
+
+
+}
+
+
+
+
+
+
+
+
+
+

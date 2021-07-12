@@ -1,0 +1,8 @@
+{
+  "name": "IoT HW4 MQTT Subscriber",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "mqtt": "^4.2.8"
+  }
+}
